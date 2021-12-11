@@ -32,6 +32,6 @@ Produce a solar calculator that gives users information on how many solar panels
 
 👤 **Michael Payne**
 
-- Website: michaelspayneii.com
+- Website: (https://michaelspayneii.com)
 - Github: [@MSPayneII](https://github.com/MSPayneII)
 - LinkedIn: [@michaelspayneii](https://linkedin.com/in/michaelspayneii)
